@@ -1,7 +1,4 @@
-[build]
-    base = "app-translate"
-    command = "npm run build:prod"
-    publish ="dist/browser"
+
 
 [[redirects]]
     from = "/*"
